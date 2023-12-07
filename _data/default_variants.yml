@@ -664,6 +664,7 @@ transforms:
 utilities:
   airflow: apache
   clickhouse: clickhouse
+  cratedb: cratedb
   cron: meltano
   dagster: quantile-development
   datahub: datahub-project
